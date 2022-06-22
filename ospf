@@ -1,1 +1,3 @@
 neighbour ospf
+
+cost 2000
