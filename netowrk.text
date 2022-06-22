@@ -1,0 +1,9 @@
+network is internet
+
+
+show interfaces (
+    <interface-name>
+    <brief | detail | extensive | terse>
+    <controller interface-name>|
+    <descriptions interface-name>|
+    <destination-class (all | destination-class-name logical-interface-name)>|
