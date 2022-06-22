@@ -1,1 +1,3 @@
 bgp neighbour 1.1.1.1
+
+authentication md5
