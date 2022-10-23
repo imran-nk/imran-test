@@ -1,5 +1,0 @@
-bgp neighbour 1.1.1.1
-
-authentication
-
-peer-as 1234
